@@ -35,3 +35,7 @@
 .footer__text {
     background-color: #efe8e8;
 }
+
+.footer__text:hover {
+    background-color: aqua;
+}
