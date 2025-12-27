@@ -32,10 +32,15 @@
     height: 40px;
 }
 
+.social-list__icon:hover {
+    background-color: aqua;
+    border-radius: 17%;
+}
+
 .footer__text {
     background-color: #efe8e8;
 }
 
 .footer__text:hover {
-    background-color: aqua;
+    background-color: rgb(40, 240, 240);
 }
